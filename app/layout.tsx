@@ -6,8 +6,8 @@ import { ClerkProvider } from '@clerk/nextjs'
 
 
 export const metadata: Metadata = {
-  title: 'Saket E-commerce Website',
-  description: 'Saket Pawan Admin Dashbaord',
+  title: 'Saket E-commerce',
+  description: 'Saket E-COMMERCE',
 }
 
 export default function RootLayout({
