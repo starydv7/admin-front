@@ -6,7 +6,7 @@ import { ClerkProvider } from '@clerk/nextjs'
 
 
 export const metadata: Metadata = {
-  title: 'Saket E-commerce-Pawan',
+  title: 'Saket E-commerce-Pawan Yadav',
   description: 'Saket E-COMMERCE-Website',
 }
 
